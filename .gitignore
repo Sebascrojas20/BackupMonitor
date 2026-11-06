@@ -1,0 +1,23 @@
+﻿# Copias de seguridad del código
+*.bak
+
+# Reportes generados
+Reportes/
+*.csv
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Entornos Python
+venv/
+.venv/
+__pycache__/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Configuracion local
+config.json

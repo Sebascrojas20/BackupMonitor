@@ -1,0 +1,9 @@
+﻿{
+    "BackupPath":  "C:\\Backups",
+    "DiasMaximos":  2,
+    "BackupsEsperados":  [
+                             "Backup_DB.bak",
+                             "Backup_Oracle.trn",
+                             "Backup_Servidor.zip"
+                         ]
+}
